@@ -1,4 +1,4 @@
-# :computer: Local Machine GenAI Chatbot  application with Streamlit, MongoDB Atlas, Langchain and OpenAI
+# Local Machine GenAI Chatbot  application with Streamlit, MongoDB Atlas, Langchain and OpenAI
 
 This Python Retrieval-Augmented Generation (RAG) application is able to read multiple PDFs - up to 200MB at a time - and answer questions based on the information in those PDFs. In simpler terms, it can find relevant information from the PDFs and use that information to answer your questions.
 
